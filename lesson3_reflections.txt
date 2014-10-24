@@ -14,3 +14,6 @@ Forks-when we want to copy the existing repository and keep track of the changes
 Clones - when we want to make changes on your local system
 branches - to test things out or for experimental stuff and later merge it with master.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+I guess if you are offline, you can make changes to it.
+
