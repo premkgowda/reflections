@@ -17,3 +17,12 @@ branches - to test things out or for experimental stuff and later merge it with 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 I guess if you are offline, you can make changes to it.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Difficult to track who did what changes.
+Difficult to trace it to the original work and too manual error prone.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+when we like our changes to be reviewed by others.
+we don't screw up the master if there is a mistake in the brach
